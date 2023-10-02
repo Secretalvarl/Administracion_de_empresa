@@ -26,7 +26,7 @@ namespace Administracion_de_empresa.Servicios
 
             Console.WriteLine("$$$$$$$$$$$$$$$$$$$$$$$$$$$");
             Console.WriteLine("1. Empleados");
-            Console.WriteLine("2. Probedores");
+            Console.WriteLine("2. Proveedores");
             Console.WriteLine("3. Cerrar");
             Console.WriteLine("$$$$$$$$$$$$$$$$$$$$$$$$$$$");
             Console.WriteLine("4. Seleccione una opcion");
